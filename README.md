@@ -6,7 +6,8 @@
                     2) В'ячеслав
                     3) Віталій
 
-За корсами GoITenns
+++За курсами GoITenns++
 
-![photo_2024-04-17_19-45-50](https://github.com/LOLPickle/GoITeensProject2/assets/154062982/f3625536-fc88-4bba-b4f2-417dec300e6d)
+![Знімок екрана 2024-04-17 194719](https://github.com/LOLPickle/GoITeensProject2/assets/154062982/dd37d6e2-24b4-4ebc-9acc-9274a6b0696a)
+
 <<<Приклад рівня 1>>>

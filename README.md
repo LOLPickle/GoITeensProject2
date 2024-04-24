@@ -1,4 +1,4 @@
-# NameGame
+# Tower Clach
 
 -Наша гра створена по типу Kingdom Rush --> https://youtu.be/colKH6jF2CM?si=5rUeJdEfXktuQRQb -
 

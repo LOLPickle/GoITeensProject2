@@ -28,6 +28,7 @@ public class EnemyMovement : MonoBehaviour
 
             if (pathIndex == PointManager.main.path.Length)
             {
+                enemySpawner.onEnemyDestroy.Invoke();
                 Destroy(gameObject);
                 return;
             }

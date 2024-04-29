@@ -13,7 +13,8 @@ GameObject:
   - component: {fileID: 3325671298458492585}
   - component: {fileID: 7497716562173303259}
   - component: {fileID: -154138657156953238}
-  m_Layer: 0
+  - component: {fileID: -274490939898661900}
+  m_Layer: 6
   m_Name: Circle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -75,7 +76,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: -2413806693520163455, guid: c0a12fe407019d846b95c45b44a494c1, type: 3}
   m_Color: {r: 0.8396226, g: 0.24871837, b: 0.24871837, a: 1}
   m_FlipX: 0
@@ -95,9 +96,9 @@ Rigidbody2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 715366227491510450}
-  m_BodyType: 0
+  m_BodyType: 1
   m_Simulated: 1
-  m_UseFullKinematicContacts: 0
+  m_UseFullKinematicContacts: 1
   m_UseAutoMass: 0
   m_Mass: 1
   m_LinearDrag: 0
@@ -162,4 +163,17 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rb: {fileID: 3325671298458492585}
-  moveSpeed: 5
+  moveSpeed: 2
+--- !u!114 &-274490939898661900
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 715366227491510450}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0fd2244e6fc47b24eb69a1a2596559eb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hitPoints: 5

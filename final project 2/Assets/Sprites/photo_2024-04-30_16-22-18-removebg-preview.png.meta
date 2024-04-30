@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 497877696662aee47ba7434638be1ea7
+guid: 0e7f9a99afd7bbc4a8446523efd2ad34
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -65,7 +65,7 @@ TextureImporter:
   ignorePngGamma: 0
   applyGammaDecoding: 0
   swizzle: 50462976
-  cookieLightType: 1
+  cookieLightType: 0
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -110,13 +110,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: ui-small-icons_0
+      name: photo_2024-04-30_16-22-18-removebg-preview_0
       rect:
         serializedVersion: 2
-        x: 4
-        y: 21
-        width: 8
-        height: 7
+        x: 39
+        y: 26
+        width: 96
+        height: 78
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -124,20 +124,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 984f70236e4f35444901c5110721528a
-      internalID: 1789292279
+      spriteID: 5f1adb360eed3f843b5df025cf82a888
+      internalID: -1496714518
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ui-small-icons_1
+      name: photo_2024-04-30_16-22-18-removebg-preview_1
       rect:
         serializedVersion: 2
-        x: 20
-        y: 21
-        width: 8
-        height: 7
+        x: 191
+        y: 26
+        width: 96
+        height: 74
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -145,50 +145,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7876f08fddd0ba14c839f44063ecd74b
-      internalID: 1213212524
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ui-small-icons_2
-      rect:
-        serializedVersion: 2
-        x: 4
-        y: 4
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5e967f20bf9e4a142b45897f9584fcdb
-      internalID: 678903673
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ui-small-icons_3
-      rect:
-        serializedVersion: 2
-        x: 20
-        y: 4
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ceb9cbb6912e710419aaeece7d5398b2
-      internalID: 521908775
+      spriteID: 5533b925511ed7c4091f620008ea3331
+      internalID: 821231764
       vertices: []
       indices: 
       edges: []
@@ -204,10 +162,8 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      ui-small-icons_0: 1789292279
-      ui-small-icons_1: 1213212524
-      ui-small-icons_2: 678903673
-      ui-small-icons_3: 521908775
+      photo_2024-04-30_16-22-18-removebg-preview_0: -1496714518
+      photo_2024-04-30_16-22-18-removebg-preview_1: 821231764
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
